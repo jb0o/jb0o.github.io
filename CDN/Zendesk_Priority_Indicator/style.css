@@ -1,0 +1,11 @@
+.high-ticket-priority {
+	background-color: #fff3ca !important;
+}
+
+.urgent-ticket-priority {
+	background-color: #f7cecb !important;
+}
+
+.filter_tickets:not(.deleted) .regular:hover td {
+	background-color: #f3f3f3 !important;
+}
